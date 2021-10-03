@@ -1,0 +1,64 @@
+[
+    {
+        "title": "ドミニオン",
+        "image": "https://loremflickr.com/350/250/cardgame",
+        "tags" : [
+            "2人から遊べる",
+            "定番品",
+            "TVで紹介",
+            "有名人もプレイ"
+        ],
+        "shop_link": {
+            "amazon": "#",
+            "rakuten":  "#"
+        }
+    },
+    {
+        "title": "カタンの開拓者",
+        "image": "https://loremflickr.com/350/250/boardgame",
+        "tags" : [
+            "2人から遊べる",
+            "定番品",
+            "TVで紹介",
+            "有名人もプレイ",
+            "デートに最適",
+            "30分から遊べる"
+        ],
+        "shop_link": {
+            "amazon": "#",
+            "rakuten":  "#"
+        }
+    },
+    {
+        "title": "カタンの開拓者",
+        "image": "https://loremflickr.com/350/250/boardgames",
+        "tags" : [
+            "2人から遊べる",
+            "定番品",
+            "TVで紹介",
+            "有名人もプレイ",
+            "デートに最適",
+            "30分から遊べる"
+        ],
+        "shop_link": {
+            "amazon": "#",
+            "rakuten":  "#"
+        }
+    },
+    {
+        "title": "カタンの開拓者",
+        "image": "https://loremflickr.com/350/250/cardsgame",
+        "tags" : [
+            "2人から遊べる",
+            "定番品",
+            "TVで紹介",
+            "有名人もプレイ",
+            "デートに最適",
+            "30分から遊べる"
+        ],
+        "shop_link": {
+            "amazon": "#",
+            "rakuten":  "#"
+        }
+    }
+]
